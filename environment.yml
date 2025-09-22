@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - pgmpy=1.0.0
-  - python=3.13.7
+  - python=3.12.11
   - networkx=3.5
   - numpy=2.3.3
   - scikit-learn=1.7.2
